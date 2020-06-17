@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{B2B58FB2-4462-6B0C-A872-40DD957E5FE0}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/SpawnEnemies.cs">
+    <Files>
+      <File FileName="../Tower Defense V2/Assets/Scripts/EnemyMovement.cs" Line="18" Column="1" />
+      <File FileName="Assets/MoveMent.cs" Line="35" Column="13" />
+      <File FileName="Assets/Character.cs" Line="1" Column="1" />
+      <File FileName="Assets/CharacterColor.cs" />
+      <File FileName="Assets/FindEnemy.cs" Line="54" Column="28" />
+      <File FileName="Assets/Bullet.cs" Line="43" Column="16" />
+      <File FileName="Assets/EnemyMoveMent.cs" Line="11" Column="26" />
+      <File FileName="../Tower Defense V2/Assets/Scripts/WaveSpawner.cs" Line="47" Column="6" />
+      <File FileName="Assets/SpawnEnemies.cs" Line="37" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="New Unity Project" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="SpawnEnemies.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="77839254-26f1-4ba7-b2eb-a39969da0ef9" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
